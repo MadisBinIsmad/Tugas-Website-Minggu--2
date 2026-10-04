@@ -1,0 +1,11 @@
+.container {
+  width: 80%;
+  margin: 0 auto;
+  background-color: red;
+}
+
+.navigasi {
+  width: 80%;
+  margin: 0 auto;
+  background-color: azure;
+}
